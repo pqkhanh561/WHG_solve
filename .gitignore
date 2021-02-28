@@ -1,0 +1,8 @@
+*.jar
+whg_env/
+hardest_game/
+pythonsection/env/
+pythonsection/model/*
+pythonsection/__pycache__
+game/model/*
+game/__pycache__/*
